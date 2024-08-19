@@ -1,3 +1,17 @@
+# **Music App** 
+
+A simple, user-friendly music player app that lets you discover, play, and manage your favorite songs in one place using Nextjs. The app supports various audio formats, features playlist management, and provides a seamless music experience with an intuitive UI.
+
+
+## 🛠️ Technologies Used
+
+* Next.js
+* Aceternity UI
+* Shadcn
+* Tailwind CSS
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
